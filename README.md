@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 📦 Inventory Data Processing
+
+재고 및 소비기한 데이터를 정리하고 분석하여  
+폐기 위험 상품을 빠르게 식별하고 효율적인 재고 관리를 지원
+
+---
